@@ -3,7 +3,7 @@ organizer:
 attendees: 
 ---
 
-## Topics
+## Agenda
 
 - *List meeting description, goals, open questions here. **Why** was this meeting arranged?*
 
@@ -17,7 +17,7 @@ attendees:
 
 ## Tasks
 
-- *List **your** tasks here.
+- *List **your** tasks here.*
 
 ## Artifacts
 

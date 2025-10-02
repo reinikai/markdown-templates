@@ -1,6 +1,9 @@
 ## Project description
 
+- Name: *Project name*
+- Description: *Project description*
 - Precedes: *link another project*
+- Succeeds: *link another project*
 
 ### Stakeholders
 
@@ -9,7 +12,7 @@
 ### Invoicing
 
 - Pricing model: hourly *(or fixed)*
-- *Who is paying for the work, what is the price and is there a time reporting code?*
+- *Who is paying for the work, what is the price, and is there a time reporting code?*
 
 ### Goals
 
@@ -20,7 +23,7 @@
 
 ### Deliverables
 
-- *A deliverable refers to **any tangible or intangible output that is produced and required by the project** and is delivered to the customer, client, or project sponsor.
+- *A deliverable refers to **any tangible or intangible output that is produced and required by the project** and is delivered to the customer, client, or project sponsor.*
 
 ### Timeline, deadlines, status
 
@@ -59,7 +62,6 @@ views:
     name: Table
 ```
 
-
 ## Tech stack
 
 - *Link relevant technologies, resources here.*
@@ -84,4 +86,4 @@ views:
 
 ## Tasks
 
-- *List **your** tasks here.
+- *List **your** tasks here.*
