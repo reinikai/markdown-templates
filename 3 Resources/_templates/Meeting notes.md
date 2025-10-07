@@ -1,6 +1,7 @@
 ---
 organizer: 
 attendees: 
+project: 
 ---
 
 ## Agenda
@@ -9,7 +10,7 @@ attendees:
 
 ## Meeting notes
 
-- *Take notes using to a note taking system, e.g. Outline.*
+- *Take notes using to a note-taking system, e.g., Outline.*
 
 ## Action points
 
@@ -25,6 +26,6 @@ attendees:
 
 ## Next steps
 
-- *Is a followup needed and has it been booked?*
+- *Is a **follow-up** needed and has it been booked?*
 
 ---
