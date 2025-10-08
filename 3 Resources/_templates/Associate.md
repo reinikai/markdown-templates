@@ -16,7 +16,9 @@ GROUP BY link
 - LinkedIn: 
 - Languages: 
 - Likes: 
-- Dislikes: 
+- Dislikes:
+- Communication style: 
+
 ## Contacts
 
 - Names: 

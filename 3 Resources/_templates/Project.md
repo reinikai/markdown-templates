@@ -1,6 +1,7 @@
-## Project description
+## Description
 
 - Name: *Project name*
+- Phase: *e.g. design, implementation, testing, delivery, etc.*
 - Description: *Project description*
 - Precedes: *link another project*
 - Succeeds: *link another project*
@@ -11,19 +12,20 @@
 
 ### Invoicing
 
-- Pricing model: hourly *(or fixed)*
-- *Who is paying for the work, what is the price, and is there a time reporting code?*
+- Pricing model: *time-and-materials* or *fixed*
+- *Who is paying for the work, what is the **price**, and is there a time **reporting code**?*
+
+### Need
+
+- *Describe **why** this project exists.*
 
 ### Goals
 
-- *What do we wish to achieve with this project?*
+- ***What do we wish to achieve** with this project?*
+
 ### Scope
 
 - *What is and is not in scope?*
-
-### Deliverables
-
-- *A deliverable refers to **any tangible or intangible output that is produced and required by the project** and is delivered to the customer, client, or project sponsor.*
 
 ### Timeline, deadlines, status
 
@@ -32,10 +34,13 @@
 - Target:: 
 - Hard deadline:: N/A
 
-
 ### Ways of working
 
-- *Scrum, waterfall, kanban, etc.*
+- *Scrum, waterfall, Kanban, remote, on-site, etc.*
+
+## Deliverables
+
+- *A deliverable refers to **any tangible or intangible output that is produced and required by the project** and is delivered to the customer, client, or project sponsor.*
 
 ## Artifacts
 
@@ -46,6 +51,8 @@
 - *Link relevant attachments, documentation, web sites and literature notes here.*
 
 ### Documents
+
+- *Link documents here, e.g. offer documents.*
 
 ### Tickets
 
@@ -72,9 +79,11 @@ views:
 #### Current
 
 - *Describe the **current architecture**.*
+
 #### Target
 
 - *Describe the **target architecture**.*
+
 #### Implementation
 
 - *Describe any **differences** between the target architecture and how it is implemented.*
