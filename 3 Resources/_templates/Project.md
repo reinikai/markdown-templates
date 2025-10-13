@@ -1,3 +1,8 @@
+---
+Note type: Project
+---
+
+
 ## Description
 
 - Name: *Project name*

@@ -1,3 +1,7 @@
+---
+Note type: Organization
+---
+
 ## Trade info
 
 - IOSS number: 

@@ -1,4 +1,5 @@
 ---
+Note type: Meeting
 organizer: 
 attendees: 
 project: 

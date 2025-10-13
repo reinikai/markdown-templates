@@ -1,3 +1,7 @@
+---
+Note type: Component
+---
+
 ## Documentation
 
 - *Link upstream documentation here.*

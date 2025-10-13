@@ -1,3 +1,7 @@
+---
+Note type: Associate
+---
+
 ## Tasks
 
 ```dataview
