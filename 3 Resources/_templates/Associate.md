@@ -15,9 +15,10 @@ GROUP BY link
 - Title: 
 - Team(s): 
 - Responsibilities: 
-- Competencies: 
+- Competencies:
+- Projects:
+  - *Link relevant Project templates here.*
 - Interests: 
-- LinkedIn: 
 - Languages: 
 - Likes: 
 - Dislikes:
@@ -28,7 +29,7 @@ GROUP BY link
 - Names: 
 - Aliases: 
 - Location(s): 
-- Aliases: 
+- LinkedIn:  
 - Website: 
 - Phone: 
 - Email: 
@@ -36,3 +37,4 @@ GROUP BY link
 
 ## Notes
 
+*Free-form notes here e.g., using Outline method.*
