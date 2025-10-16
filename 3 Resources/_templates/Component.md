@@ -1,14 +1,19 @@
 ---
 Note type: Component
+Language: Python, Java, etc.
 ---
+
+## Description
+
+- *What does this component do, how does it work?*
 
 ## Documentation
 
 - *Link upstream documentation here.*
 
-## Description
+## Repositories
 
-- *What does this component do, how does it work?*
+- *Link repositories here.*
 
 ## Dependencies
 
@@ -16,7 +21,7 @@ Note type: Component
 
 ## Deployment
 
-- *Where is the component deployed?*
+- *Where/how is the component deployed?*
 
 ## People
 
