@@ -21,3 +21,4 @@ Note type: Team
 
 ## Notes
 
+- *Free-form notes here.*
