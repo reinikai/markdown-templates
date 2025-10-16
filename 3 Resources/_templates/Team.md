@@ -1,7 +1,6 @@
 ---
 Note type: Team
 ---
-
 ## Function
 
 - *Why does this team exist?*
@@ -9,7 +8,7 @@ Note type: Team
 
 ## Documentation
 
-- *Link Wiki page here.*
+- *Link relevant Wiki pages here.*
 
 ## People
 
@@ -21,4 +20,4 @@ Note type: Team
 
 ## Notes
 
-- *Free-form notes here.*
+*Free-form notes here e.g., using Outline method.*

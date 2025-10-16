@@ -1,15 +1,16 @@
 ---
 Note type: Organization
 ---
-
 ## Trade info
 
 - IOSS number: 
 - VAT ID: 
+
 ## Contacts
 
 - Location(s):
 - Website: 
+
 ### Support
 
 ## Services
@@ -27,3 +28,5 @@ Note type: Organization
 ## Projects
 
 ## Notes
+
+*Free-form notes here e.g., using Outline method.*

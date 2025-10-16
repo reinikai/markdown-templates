@@ -2,7 +2,6 @@
 Note type: Component
 Language: Python, Java, etc.
 ---
-
 ## Description
 
 - *What does this component do, how does it work?*
@@ -26,3 +25,7 @@ Language: Python, Java, etc.
 ## People
 
 - *Link relevant Associate templates here.*
+
+## Notes
+
+*Free-form notes here e.g., using Outline method.*
