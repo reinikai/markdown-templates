@@ -1,0 +1,6 @@
+## All open tasks
+
+```query
+- [ ]
+```
+
