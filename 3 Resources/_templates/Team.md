@@ -15,5 +15,9 @@ Note type: Team
 
 - *Link relevant Associate templates here.*
 
+## Components
+
+- *Link relevant Component templates here.*
+
 ## Notes
 
