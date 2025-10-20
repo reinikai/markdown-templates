@@ -1,8 +1,6 @@
 ---
 Note type: Todo list
 ---
-
-
 ### Overdue tasks
 ```tasks
 not done

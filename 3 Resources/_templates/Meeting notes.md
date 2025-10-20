@@ -2,9 +2,8 @@
 Note type: Meeting
 organizer: 
 attendees: 
-project: 
+project:
 ---
-
 ## Agenda
 
 - *List meeting description, goals, open questions here. **Why** was this meeting arranged?*

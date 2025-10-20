@@ -1,7 +1,6 @@
 ---
 Note type: Pros & cons list
 ---
-
 Pro:
 - N/A
 

@@ -1,7 +1,6 @@
 ---
 Note type: Associate
 ---
-
 ## Tasks
 
 ```dataview
@@ -12,6 +11,7 @@ GROUP BY link
 
 ## Profile
 
+- Organization(s): 
 - Title: 
 - Team(s): 
 - Responsibilities: 
