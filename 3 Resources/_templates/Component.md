@@ -14,6 +14,10 @@ Language: Python, Java, etc.
 
 - *Link repositories here.*
 
+## Sub-components
+
+- *Link other Component templates here.*
+
 ## Dependencies
 
 - *Link other Component templates here.*
