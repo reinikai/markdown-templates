@@ -14,3 +14,8 @@
 
 ## Folder structure
 
+### 3 Resources/_templates
+
+#### Component
+
+- Allows for modeling of individual software components or services. Here, service modeling is about domain-driven design and decomposing systems.
