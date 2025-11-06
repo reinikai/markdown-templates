@@ -14,6 +14,21 @@
 
 ## Folder structure
 
+### 0 Inbox
+
+- An Inbox layer inspired by GTD (Getting Things Done).
+- It's an **unprocessed holding area** — a place where you quickly capture new ideas, tasks, or information before deciding where they belong in PARA.
+- Later, during review, you process the inbox contents:
+  - Move actionable items to a *Project*
+  - Assign ongoing items to an *Area*
+  - Store useful info in *Resources*
+  - Delete or *Archive* what's not needed
+- Adding an Inbox to PARA solves PARA’s main weakness: PARA assumes you always know where something belongs.
+- This combination provides:
+  - Low friction capture (Inbox)
+  - High-clarity structure (PARA)
+  - A clear review flow: Inbox → Project / Area / Resource / Archive
+
 ### 3 Resources/_templates
 
 #### Component
