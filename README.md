@@ -33,20 +33,20 @@
 
 #### Architecture
 
-- For modeling software or service architectures. Links together a series of Component notes.
+- For modeling software or service architectures. Links together a series of Component notes. At the same time acts as a checklist for Definition of Done.
 
 #### Associate
 
-- A person, in a professional context.
+- A person, in a professional context. Can be linked to one or more Organization templates.
 
 #### Component
 
-- Allows for modeling of individual software components or services. Here, service modeling is about domain-driven design and decomposing systems.
+- Allows for modeling of individual software components or services. Here, service modeling is about domain-driven design and decomposing systems. At the same time acts as a checklist for Definition of Done.
 
 #### Organization
 
-- A company, group, etc.
+- A company, group, etc. Can be linked to one or more Associate and/or Team templates.
 
 #### Team
 
-- Links together a series of Associate notes.
+- Links together a series of Associate notes. Can in turn be linked to an Organization template.

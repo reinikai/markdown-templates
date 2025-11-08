@@ -30,6 +30,24 @@ Legend:
 Artifacts:
 - *Add sequence diagrams.*
 
+## Non-functional requirements
+
+- *List non-functional requirements.*
+
+## Monitoring
+
+### Error scenarios & alerts
+
+- *Which conditions trigger an alert?*
+
+## Deployment
+
+### Capacity planning
+
+## Testing
+
+### Environments
+
 ## Solution evaluation
 
 Pro:
@@ -37,6 +55,9 @@ Pro:
 
 Con:
 - *What are the drawbacks of this solution?*
+
+Artifacts:
+- *Link any relevant artifacts, e.g. tech reviews.*
 
 ## Alternate solutions
 
