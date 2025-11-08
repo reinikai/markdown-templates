@@ -6,6 +6,9 @@
 
 ## Components
 
+- *Link relevant Component templates.*
+- *Document design considerations.*
+
 ### Changed
 
 ### Added
@@ -22,6 +25,8 @@ Legend:
 - A: added
 - R: removed
 
+*Add call flow in text, document interfaces and actors.*
+
 Artifacts:
 - *Add sequence diagrams.*
 
@@ -36,3 +41,4 @@ Con:
 ## Alternate solutions
 
 - *Link any alternative Architecture templates.*
+- *List and briefly justify why other options were not chosen.*
