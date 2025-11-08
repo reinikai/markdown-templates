@@ -1,3 +1,8 @@
+## High-level architecture
+
+- *Add architecture diagram.*
+- *brief summary of the system or change (1–2 paragraphs).*
+- *Key assumptions and constraints.*
 
 ## Components
 
@@ -28,3 +33,6 @@ Pro:
 Con:
 - *What are the drawbacks of this solution?*
 
+## Alternate solutions
+
+- *Link any alternative Architecture templates.*
