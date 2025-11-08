@@ -31,6 +31,22 @@
 
 ### 3 Resources/_templates
 
+#### Architecture
+
+- For modeling software or service architectures. Links together a series of Component notes.
+
+#### Associate
+
+- A person, in a professional context.
+
 #### Component
 
 - Allows for modeling of individual software components or services. Here, service modeling is about domain-driven design and decomposing systems.
+
+#### Organization
+
+- A company, group, etc.
+
+#### Team
+
+- Links together a series of Associate notes.
