@@ -25,7 +25,7 @@ Legend:
 - A: added
 - R: removed
 
-*Add call flow in text, document interfaces and actors.*
+*Add call flow in text, document APIs, events, queues, or integrations and actors.*
 
 Artifacts:
 - *Add sequence diagrams.*
