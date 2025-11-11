@@ -4,6 +4,10 @@
 - *brief summary of the system or change (1–2 paragraphs).*
 - *Key assumptions and constraints.*
 
+## Design constraints
+
+- *Factors limiting the design.*
+
 ## Components
 
 - *Link relevant Component templates.*
@@ -50,10 +54,13 @@ Artifacts:
 
 ## Solution evaluation
 
-Pro:
+Blockers:
+- None identified
+
+Advantages:
 - *What are the benefits of this solution?*
 
-Con:
+Disadvantages:
 - *What are the drawbacks of this solution?*
 
 Artifacts:
