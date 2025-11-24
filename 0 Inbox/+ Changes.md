@@ -1,21 +1,17 @@
 ```base
-version: 1
-filters:
-  # Only markdown files
-  - file.ext = "md"
-
+formulas:
+  title: link(file, file.name)
+  modified: file.mtime.format("dd DD.MM.YYYY HH:mm:ss")
 views:
   - type: table
     name: "Recently Modified"
-    columns:
-      - field: file.name
-        label: File
-      - field: file.folder
-        label: Folder
-      - field: file.mtime
-        label: Last Modified
     order:
-      - field: file.mtime
-        desc: true
+      - formula.modified
+      - formula.title
+    sort:
+      - property: file.mtime
+        direction: DESC  
     limit: 20
+    columnSize:
+      file.mtime: 185
 ```
