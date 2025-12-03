@@ -10,7 +10,7 @@
 
 - Must accommodate for meeting-heavy workflows with multiple parallel projects
 - Meeting note archival takes place when:
-- File name format: ISO 8601 date (YYYY-MM-DD) followed by the meeting title. This, however, necessitates the use of a per-folder sort direction in the File Explorer, in order to avoid excess scrolling;
+- File name format: ISO 8601 date (YYYY-MM-DD) followed by the meeting title. To avoid excess scrolling, move notes to `_archive`, starting from the oldest, when they've been processed.
 
 ## Folder structure
 
@@ -25,7 +25,7 @@
   - Delete or *Archive* what's not needed
 - Adding an Inbox to PARA solves PARA’s main weakness: PARA assumes you always know where something belongs.
 - This combination provides:
-  - Low friction capture (Inbox)
+  - Low-friction capture (Inbox)
   - High-clarity structure (PARA)
   - A clear review flow: Inbox → Project / Area / Resource / Archive
 
