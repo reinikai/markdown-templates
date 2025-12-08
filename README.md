@@ -12,6 +12,12 @@
 - Meeting note archival takes place when:
 - File name format: ISO 8601 date (YYYY-MM-DD) followed by the meeting title. To avoid excess scrolling, move notes to `_archive`, starting from the oldest, when they've been processed.
 
+### Task management
+
+- Since tasks often arise from meetings, it makes sense to capture and track them in Obsidian as well.
+- For actual task management, 
+
+
 ## Folder structure
 
 ### 0 Inbox
