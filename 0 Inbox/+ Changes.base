@@ -1,6 +1,6 @@
 formulas:
   title: link(file, file.name)
-  modified: file.mtime.format("dd DD.MM.YYYY HH:mm:ss")
+  modified: file.mtime.format("dd DD.MM.YYYY HH:mm")
 views:
   - type: table
     name: "Recently Modified"
@@ -11,6 +11,6 @@ views:
     sort:
       - property: file.mtime
         direction: DESC  
-    limit: 20
+    limit: 50
     columnSize:
       file.mtime: 185
